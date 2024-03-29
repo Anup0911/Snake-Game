@@ -31,10 +31,11 @@
 #hiscoreBox{
     position: absolute;
     top: 19px;
-    right: 200px;
+    right: 168px;
     /* font-weight: bold; */
     font-size: 39px;
     font-family: 'Times New Roman', Times, serif;
+    
 }
 .head{
     background: linear-gradient(red,yellow);
